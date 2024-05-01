@@ -1,2 +1,2 @@
 # bucura
-bucuralifeline
+bucura-portfolio
